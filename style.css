@@ -1,0 +1,64 @@
+html{
+  background-color: grey;
+}
+h1
+{
+  font-size: 300%;
+  font-family:"Calibri";
+  text-align:left;
+  color: rgb(155,187,89);
+  margin-left:70;
+}
+h2
+{
+  font-family:"Calibri";
+  text-align:left;
+  color: rgb(155,187,89);
+  margin-left:70;
+}
+h3
+{
+  font-size: 110%;
+  font-family:"Calibri";
+  text-align:left;
+  margin-left:100px;
+}
+.notbold
+{
+  font-weight:normal;
+}
+body
+{
+  background-color: white;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+ul
+{
+  font-family:"Calibri";
+  margin-left: 70px;
+  margin-right: 70px;
+  color: rgb(155,187,89);
+}
+ul p
+{
+  font-family:"Calibri";
+  color: black;
+
+}
+ul a{
+  display: inline;
+}
+.date
+{
+  display: inline;
+  float: right;
+}
+.position_name
+{
+    font-family:"Calibri";
+    color: black;
+    margin-left: 30px;
+}
