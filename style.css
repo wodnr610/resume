@@ -5,9 +5,8 @@ h1
 {
   font-size: 300%;
   font-family:Calibri;
-  text-align:left;
   color: rgb(155,187,89);
-  margin-left:100;
+  margin-left:70;
 }
 h2
 {
@@ -21,7 +20,7 @@ h3
   font-size: 110%;
   font-family:Calibri;
   text-align:left;
-  margin-left:100px;
+  margin-left:70px;
 }
 .notbold
 {
